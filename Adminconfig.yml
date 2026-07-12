@@ -1,1 +1,8 @@
 
+backend:
+  name: github
+  repo: soullifthud-hue/Damontahch
+  branch: main
+
+client_id: Ov23liuJrL41jNRjpSrC
+client_secret: 39d4471281bd528291bc35541eaabbcef73aeed6
